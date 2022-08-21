@@ -40,4 +40,4 @@ fun calcCube(number: Int) = number*number*number
 
 fun convertMhToKm(mh: Int): Double = mh * 1.609
 
-fun convertString(str: String) = println(str.replace("a", "x", ignoreCase = true))
+fun convertString(str: String) = println(str.replace("a", "x", ignoreCase = true).lowercase())
