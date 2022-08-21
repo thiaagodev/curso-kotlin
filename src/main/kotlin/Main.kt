@@ -1,5 +1,6 @@
+
 fun main() {
-    var nome = "Thiago"
-    println(nome)
+    var nome: String? = null
+    println(tipos())
 
 }
