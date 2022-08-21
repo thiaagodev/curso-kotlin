@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="funções de String">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mathFuns.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="funções matemáticas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/mathFuns.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/mathFuns.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661110928498</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="funções matemáticas">
+      <created>1661111280298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661111280298</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +149,8 @@
     <MESSAGE value="Tipos e Funções" />
     <MESSAGE value="README" />
     <MESSAGE value="funções de String" />
-    <option name="LAST_COMMIT_MESSAGE" value="funções de String" />
+    <MESSAGE value="funções matemáticas" />
+    <option name="LAST_COMMIT_MESSAGE" value="funções matemáticas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
