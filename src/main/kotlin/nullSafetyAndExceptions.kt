@@ -23,6 +23,14 @@ fun main() {
         println("Será executado ao final")
     }
 
+    // Elvis
+
+    val str: String? = null
+
+    println(str ?: "nulo")
+
+    // ternario
+    println(if(str !== null) str else "Nulo")
 
 }
 
