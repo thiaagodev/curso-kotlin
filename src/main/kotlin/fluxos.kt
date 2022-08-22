@@ -1,26 +1,16 @@
 fun main() {
-    val n: Int = 1
+    print("Qual seu cargo?: ")
+    val cargo: String? = readLine()
 
-    if(n >= 1 && n <= 50) {
-        println("N está entre 1 e 50")
-    }
+    val bonus = bonus(cargo)
 
-    // utilizando operador in
-    if(n in 1..50) {
-        println("N está entre 1 e 50")
-    }
-
-    val test = "string"
-
-    if("t" in test) {
-        print("Achar caracteres em string com in")
-    }
+    println("Seu bonus será $bonus")
 
 }
 
 // When
 
-fun bonus(cargo: String): Float {
+fun bonus(cargo: String?): Float {
     return when(cargo) {
         "Gerente" -> 2000f
         "Coordenador" -> 1500f
