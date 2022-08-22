@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="downTo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullSafetyAndExceptions.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="null safety">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullSafetyAndExceptions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/nullSafetyAndExceptions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661207076015</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="null safety">
+      <created>1661210189972</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661210189972</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,7 +212,8 @@
     <MESSAGE value="input de dados com readLine()" />
     <MESSAGE value="for com steps" />
     <MESSAGE value="downTo" />
-    <option name="LAST_COMMIT_MESSAGE" value="downTo" />
+    <MESSAGE value="null safety" />
+    <option name="LAST_COMMIT_MESSAGE" value="null safety" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
