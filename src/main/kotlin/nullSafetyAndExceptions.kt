@@ -32,5 +32,13 @@ fun main() {
     // ternario
     println(if(str !== null) str else "Nulo")
 
+    // let - executa o bloco caso não seja nulo
+    println("Let")
+    val strLet: String? = "null"
+
+    strLet?.let {
+        println(it.length)
+    }
+
 }
 
