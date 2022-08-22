@@ -6,6 +6,13 @@ fun main() {
 
     println("Seu bonus será $bonus")
 
+
+    // for com steps
+
+    for(i in 0..100 step 2) {
+        println(i)
+    }
+
 }
 
 // When

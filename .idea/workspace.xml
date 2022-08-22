@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="controle de fluxos com when">
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="input de dados com readLine()">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/fluxos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fluxos.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661206400138</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="input de dados com readLine()">
+      <created>1661206845826</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661206845826</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +187,8 @@
     <MESSAGE value="exercícios de funções" />
     <MESSAGE value="controle de fluxos com in" />
     <MESSAGE value="controle de fluxos com when" />
-    <option name="LAST_COMMIT_MESSAGE" value="controle de fluxos com when" />
+    <MESSAGE value="input de dados com readLine()" />
+    <option name="LAST_COMMIT_MESSAGE" value="input de dados com readLine()" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
