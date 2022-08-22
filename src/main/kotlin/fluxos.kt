@@ -13,6 +13,10 @@ fun main() {
         println(i)
     }
 
+    for (i in 20 downTo 0) {
+        println(i)
+    }
+
 }
 
 // When
