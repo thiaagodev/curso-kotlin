@@ -1,5 +1,3 @@
-import kotlin.reflect.typeOf
-
 /**
  * Type Bit
  * Double 64
@@ -28,7 +26,7 @@ fun tipos() {
     var f: Float = 10.5f
     var d: Double = 10.5
 
-    var idade = 18
+    val idade = 18
 
     println(idade.javaClass.kotlin)
 

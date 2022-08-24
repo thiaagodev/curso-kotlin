@@ -1,7 +1,7 @@
 import java.lang.Exception
 
 fun main() {
-    var s: String? = null
+    val s: String? = null
 
     println(s?.length)
 
@@ -34,7 +34,7 @@ fun main() {
 
     // let - executa o bloco caso não seja nulo
     println("Let")
-    val strLet: String? = "null"
+    val strLet: String = "null"
 
     strLet?.let {
         println(it.length)
