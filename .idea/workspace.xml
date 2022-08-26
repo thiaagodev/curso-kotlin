@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="kotlin code analyze">
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="multiplos parametros e parametros genéricos em funções">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fun.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661383560887</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="multiplos parametros e parametros genéricos em funções">
+      <created>1661474613746</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661474613746</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +257,8 @@
     <MESSAGE value="operador Elvis" />
     <MESSAGE value="operador let" />
     <MESSAGE value="kotlin code analyze" />
-    <option name="LAST_COMMIT_MESSAGE" value="kotlin code analyze" />
+    <MESSAGE value="multiplos parametros e parametros genéricos em funções" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiplos parametros e parametros genéricos em funções" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
