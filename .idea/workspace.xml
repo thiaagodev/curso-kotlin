@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="With">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/lateInit.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="lateinit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/heranca.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LateInitKt">
+  <component name="RunManager" selected="Kotlin.HerancaKt">
     <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.DataClassKt" />
       <module name="kotlin-aula1" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.InitKt" />
+    <configuration name="HerancaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.HerancaKt" />
       <module name="kotlin-aula1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.HerancaKt" />
         <item itemvalue="Kotlin.LateInitKt" />
         <item itemvalue="Kotlin.WithKt" />
         <item itemvalue="Kotlin.DataClassKt" />
         <item itemvalue="Kotlin.ExEnumKt" />
-        <item itemvalue="Kotlin.InitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661608134083</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="lateinit">
+      <created>1661608499157</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1661608499157</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +305,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kotlin basic and types" />
     <MESSAGE value="Tipos e Funções" />
     <MESSAGE value="README" />
     <MESSAGE value="funções de String" />
@@ -323,7 +329,8 @@
     <MESSAGE value="Classes Enum" />
     <MESSAGE value="DataClass" />
     <MESSAGE value="With" />
-    <option name="LAST_COMMIT_MESSAGE" value="With" />
+    <MESSAGE value="lateinit" />
+    <option name="LAST_COMMIT_MESSAGE" value="lateinit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
