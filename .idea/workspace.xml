@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/Planeta.java" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="Getter, Setter e field">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/ExEnum.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/POO/init.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/init.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/POO/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -48,7 +46,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InitKt">
+  <component name="RunManager" selected="Kotlin.ExEnumKt">
+    <configuration name="ExEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.ExEnumKt" />
+      <module name="kotlin-aula1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FluxosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FluxosKt" />
       <module name="kotlin-aula1" />
@@ -70,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathFunsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathFunsKt" />
-      <module name="kotlin-aula1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NullSafetyAndExceptionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NullSafetyAndExceptionsKt" />
       <module name="kotlin-aula1" />
@@ -86,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExEnumKt" />
         <item itemvalue="Kotlin.InitKt" />
         <item itemvalue="Kotlin.FunKt" />
         <item itemvalue="Kotlin.NullSafetyAndExceptionsKt" />
         <item itemvalue="Kotlin.FluxosKt" />
-        <item itemvalue="Kotlin.MathFunsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661554401720</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Getter, Setter e field">
+      <created>1661605028524</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1661605028524</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +298,8 @@
     <MESSAGE value="Iniciando POO em Kotlin" />
     <MESSAGE value="sobrecarga de construtores" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="Getter, Setter e field" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getter, Setter e field" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
