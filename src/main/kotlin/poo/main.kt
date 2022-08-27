@@ -1,4 +1,4 @@
-package POO
+package poo
 
 class Pessoa(val anoNascimento: Int = 2020, var nome: String) {
 

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="sobrecarga de construtores">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/POO/init.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/Planeta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/POO/init.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/init.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/POO/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,7 +64,7 @@
       </method>
     </configuration>
     <configuration name="InitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.InitKt" />
+      <option name="MAIN_CLASS_NAME" value="poo.InitKt" />
       <module name="kotlin-aula1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -247,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661554140231</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="init">
+      <created>1661554401720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1661554401720</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +292,8 @@
     <MESSAGE value="Any, Unit e Nothing" />
     <MESSAGE value="Iniciando POO em Kotlin" />
     <MESSAGE value="sobrecarga de construtores" />
-    <option name="LAST_COMMIT_MESSAGE" value="sobrecarga de construtores" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
