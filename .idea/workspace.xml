@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="Getter, Setter e field">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/ExEnum.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="Classes Enum">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/DataClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +46,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExEnumKt">
-    <configuration name="ExEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.ExEnumKt" />
+  <component name="RunManager" selected="Kotlin.DataClassKt">
+    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.DataClassKt" />
       <module name="kotlin-aula1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FluxosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FluxosKt" />
+    <configuration name="ExEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.ExEnumKt" />
       <module name="kotlin-aula1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassKt" />
         <item itemvalue="Kotlin.ExEnumKt" />
         <item itemvalue="Kotlin.InitKt" />
         <item itemvalue="Kotlin.FunKt" />
         <item itemvalue="Kotlin.NullSafetyAndExceptionsKt" />
-        <item itemvalue="Kotlin.FluxosKt" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661605028524</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Classes Enum">
+      <created>1661606044404</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1661606044404</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,7 +306,8 @@
     <MESSAGE value="sobrecarga de construtores" />
     <MESSAGE value="init" />
     <MESSAGE value="Getter, Setter e field" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getter, Setter e field" />
+    <MESSAGE value="Classes Enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Enum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
