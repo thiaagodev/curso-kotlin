@@ -1,5 +1,11 @@
 package poo
 
+interface Selvagem {
+    fun atacar()
+
+    val teste: String
+}
+
 abstract class Mamifero(val nome: String) {
     fun acordar() {
         println("Acordei")
@@ -13,7 +19,7 @@ abstract class Mamifero(val nome: String) {
     abstract fun comer()
 }
 
-class Cachorro(nome: String): Mamifero(nome) {
+class Cachorro(nome: String, override val teste: String): Mamifero(nome), Selvagem {
     override fun falar() {
         println("au au")
     }
@@ -21,9 +27,14 @@ class Cachorro(nome: String): Mamifero(nome) {
     override fun comer() {
         TODO("Not yet implemented")
     }
+
+    override fun atacar() {
+
+
+    }
 }
 
 
 fun main() {
-    val cachorro = Cachorro("Thor")
+    val cachorro = Cachorro("Thor", "asdaa")
 }
