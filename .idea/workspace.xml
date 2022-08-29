@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="lateinit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/heranca.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="herança e modificadores de visibilidade">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poo/heranca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/heranca.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661608499157</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="herança e modificadores de visibilidade">
+      <created>1661631563971</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1661631563971</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +312,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tipos e Funções" />
     <MESSAGE value="README" />
     <MESSAGE value="funções de String" />
     <MESSAGE value="funções matemáticas" />
@@ -330,7 +336,8 @@
     <MESSAGE value="DataClass" />
     <MESSAGE value="With" />
     <MESSAGE value="lateinit" />
-    <option name="LAST_COMMIT_MESSAGE" value="lateinit" />
+    <MESSAGE value="herança e modificadores de visibilidade" />
+    <option name="LAST_COMMIT_MESSAGE" value="herança e modificadores de visibilidade" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

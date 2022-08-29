@@ -12,7 +12,7 @@ open class Eletronico(var marca: String) {
         ativarCorrente(s)
     }
 
-    fun desligar() {
+    open fun desligar() {
 
     }
 }
@@ -22,6 +22,15 @@ class Computador(marca: String): Eletronico(marca) {
     fun processar() {
         ativarCorrente("")
     }
+
+    override fun desligar() {
+        save()
+        super.desligar()
+    }
+
+    fun save() {}
+
+    fun save(a: Int) {}
 }
 
 fun main() {
