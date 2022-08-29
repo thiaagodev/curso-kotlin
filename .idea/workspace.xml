@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="herança e modificadores de visibilidade">
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="override e overload">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/ExemploJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/object.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poo/heranca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/heranca.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.HerancaKt">
+  <component name="RunManager" selected="Kotlin.ObjectKt">
     <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.DataClassKt" />
-      <module name="kotlin-aula1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.ExEnumKt" />
       <module name="kotlin-aula1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.ObjectKt" />
+      <module name="kotlin-aula1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WithKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.WithKt" />
       <module name="kotlin-aula1" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ObjectKt" />
         <item itemvalue="Kotlin.HerancaKt" />
         <item itemvalue="Kotlin.LateInitKt" />
         <item itemvalue="Kotlin.WithKt" />
         <item itemvalue="Kotlin.DataClassKt" />
-        <item itemvalue="Kotlin.ExEnumKt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661631563971</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="override e overload">
+      <created>1661814867237</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1661814867237</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +320,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="README" />
     <MESSAGE value="funções de String" />
     <MESSAGE value="funções matemáticas" />
     <MESSAGE value="exercícios de funções" />
@@ -337,7 +344,23 @@
     <MESSAGE value="With" />
     <MESSAGE value="lateinit" />
     <MESSAGE value="herança e modificadores de visibilidade" />
-    <option name="LAST_COMMIT_MESSAGE" value="herança e modificadores de visibilidade" />
+    <MESSAGE value="override e overload" />
+    <option name="LAST_COMMIT_MESSAGE" value="override e overload" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/poo/Planeta.java</url>
+          <line>6</line>
+          <properties class="poo.Planeta" method="getNome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
