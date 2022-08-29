@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="classes abstratas">
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="interfaces">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/polimorfismo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poo/abstract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poo/abstract.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ObjectKt">
-    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.DataClassKt" />
-      <module name="kotlin-aula1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PolimorfismoKt">
     <configuration name="HerancaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.HerancaKt" />
       <module name="kotlin-aula1" />
@@ -75,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolimorfismoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.PolimorfismoKt" />
+      <module name="kotlin-aula1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WithKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.WithKt" />
       <module name="kotlin-aula1" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PolimorfismoKt" />
         <item itemvalue="Kotlin.ObjectKt" />
         <item itemvalue="Kotlin.HerancaKt" />
         <item itemvalue="Kotlin.LateInitKt" />
         <item itemvalue="Kotlin.WithKt" />
-        <item itemvalue="Kotlin.DataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661816084511</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="interfaces">
+      <created>1661816831901</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1661816831901</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +340,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercícios de funções" />
     <MESSAGE value="controle de fluxos com in" />
     <MESSAGE value="controle de fluxos com when" />
     <MESSAGE value="input de dados com readLine()" />
@@ -358,7 +364,8 @@
     <MESSAGE value="override e overload" />
     <MESSAGE value="object e companion object" />
     <MESSAGE value="classes abstratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes abstratas" />
+    <MESSAGE value="interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
