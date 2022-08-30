@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/anonymous.kt" afterDir="false" />
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="classes anonimas">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AnonymousKt">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="AnonymousKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.AnonymousKt" />
       <module name="kotlin-aula1" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LateInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poo.LateInitKt" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.MainKt" />
       <module name="kotlin-aula1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.AnonymousKt" />
         <item itemvalue="Kotlin.PolimorfismoKt" />
         <item itemvalue="Kotlin.ObjectKt" />
         <item itemvalue="Kotlin.HerancaKt" />
-        <item itemvalue="Kotlin.LateInitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661817505973</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="classes anonimas">
+      <created>1661818117832</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1661818117832</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,7 +354,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="controle de fluxos com when" />
     <MESSAGE value="input de dados com readLine()" />
     <MESSAGE value="for com steps" />
     <MESSAGE value="downTo" />
@@ -372,7 +378,8 @@
     <MESSAGE value="classes abstratas" />
     <MESSAGE value="interfaces" />
     <MESSAGE value="polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="polimorfismo" />
+    <MESSAGE value="classes anonimas" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes anonimas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,6 +392,21 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/poo/anonymous.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/poo/anonymous.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/poo/anonymous.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
