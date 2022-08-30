@@ -10,6 +10,9 @@ fun main() {
 
     println("Tenho ${data.count()} dados.")
 
+    println("Soma de calorias")
+    println(data.sumOf { it.calorias })
+
 }
 
 fun geraDados(): List<Receita> {

@@ -12,6 +12,11 @@ fun main() {
     println(list2.first())
     println(list2.last())
 
+    // sum & sumOf
+
+    println("sum e sumOf:")
+    println(list1.sum())
+
     list2.add(6)
     list2.remove(3)
     list2.removeAt(0)
