@@ -13,6 +13,10 @@ fun main() {
     println("Soma de calorias")
     println(data.sumOf { it.calorias })
 
+    println(data.filter { it.calorias > 500 })
+
+    println(data.count {it.calorias > 500})
+
 }
 
 fun geraDados(): List<Receita> {
