@@ -17,6 +17,11 @@ fun main() {
 
     println(data.count {it.calorias > 500})
 
+    // take e takelast
+
+    println(data.take(2))
+    println(data.takeLast(2))
+
 }
 
 fun geraDados(): List<Receita> {
