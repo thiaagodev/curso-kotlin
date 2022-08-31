@@ -55,6 +55,17 @@ fun main() {
     println("Média de calorias das receitas ${data.map { it.calorias }.average()}")
 
 
+    // distintinc sorted e reverse
+
+    val lst = listOf(1, 4, 5, 5, 6, 7, 9, 6, 3, 3)
+
+    println(lst.distinct())
+    println(data.distinctBy { it.nome })
+
+    println(lst.sorted())
+    println(lst.sortedDescending())
+    println(lst.reversed())
+
 }
 
 fun geraDados(): List<Receita> {

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="max e min">
+    <list default="true" id="a7ab4184-f254-41e0-8ea0-f2e4624630ce" name="Changes" comment="avarage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/anyCount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/collections/anyCount.kt" afterDir="false" />
     </list>
@@ -409,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661981879063</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="map">
+      <created>1661982181025</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1661982181025</updated>
+    </task>
+    <task id="LOCAL-00046" summary="avarage">
+      <created>1661982271657</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1661982271657</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,8 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Iniciando POO em Kotlin" />
-    <MESSAGE value="sobrecarga de construtores" />
     <MESSAGE value="init" />
     <MESSAGE value="Getter, Setter e field" />
     <MESSAGE value="Classes Enum" />
@@ -449,7 +461,9 @@
     <MESSAGE value="take e takelast" />
     <MESSAGE value="ForEach" />
     <MESSAGE value="max e min" />
-    <option name="LAST_COMMIT_MESSAGE" value="max e min" />
+    <MESSAGE value="map" />
+    <MESSAGE value="avarage" />
+    <option name="LAST_COMMIT_MESSAGE" value="avarage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
