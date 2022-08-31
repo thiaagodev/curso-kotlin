@@ -30,6 +30,18 @@ fun main() {
 
     data.filter { it.calorias > 500 }.forEach { println(it.nome) }
 
+    // Max e Min
+    println("A receita que tem mais calorias possui ${data.maxOf { it.calorias }} calorias")
+
+    println(data.maxBy { it.calorias })
+
+    listOf<Int>(1, 5, 8, 6, 7).max()
+    listOf<Int>(1, 5, 8, 6, 7).maxOrNull()
+
+    println("A receita que tem mais calorias possui ${data.minOf { it.calorias }} calorias")
+
+    println(data.minBy { it.calorias })
+
 }
 
 fun geraDados(): List<Receita> {
