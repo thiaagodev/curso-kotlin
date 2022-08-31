@@ -48,6 +48,13 @@ fun main() {
 
     println(data.map { it.nome })
 
+    // avarage
+
+    println(listOf(1, 5, 6, 7, 5).average())
+
+    println("Média de calorias das receitas ${data.map { it.calorias }.average()}")
+
+
 }
 
 fun geraDados(): List<Receita> {
