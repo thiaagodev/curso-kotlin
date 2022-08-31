@@ -42,6 +42,12 @@ fun main() {
 
     println(data.minBy { it.calorias })
 
+    // map
+
+    println("Map")
+
+    println(data.map { it.nome })
+
 }
 
 fun geraDados(): List<Receita> {
